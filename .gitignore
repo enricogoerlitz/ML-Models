@@ -1,0 +1,13 @@
+# automated generated directories
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.mypy_cache
+.vscode
+
+# general
+00_template
+data
+model_data
+trained_models
+10_kaggle.ipynb
