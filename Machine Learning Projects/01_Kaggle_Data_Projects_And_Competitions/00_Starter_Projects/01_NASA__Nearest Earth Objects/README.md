@@ -28,11 +28,10 @@ XGBoost <br>
 
 ## Used Resources
 
-https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
-
+https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects <br>
 https://unsplash.com/photos/yZygONrUBe8/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8bmFzYXxlbnwwfHx8fDE2NTg2NjYxODE&force=true
 
 ## Copyright
 
-All licenses in this repository are copyrighted by their respective authors.
+All licenses in this repository are copyrighted by their respective authors. <br>
 Everything else is released under CC0. See `LICENSE` for details.
