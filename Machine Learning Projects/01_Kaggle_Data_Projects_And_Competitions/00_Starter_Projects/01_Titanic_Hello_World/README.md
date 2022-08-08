@@ -12,13 +12,13 @@ The Task is to predict, whether or whether not a passenger do survive.
 
 ## Technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
-Sklearn <br>
-XGBoost <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
+-   Sklearn
+-   XGBoost
 
 ## Used Resources
 

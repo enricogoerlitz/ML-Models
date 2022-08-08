@@ -11,13 +11,13 @@ This repository covers my ML-Models and the way to them.
 
 ## Technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
-Sklearn <br>
-Tensorflow <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
+-   Sklearn
+-   Tensorflow
 
 ## Used Resources
 

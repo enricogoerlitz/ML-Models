@@ -19,14 +19,14 @@ Help save them and change history!
 
 ## Technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
-Sklearn <br>
-XGBoost <br>
-Tensorflow <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
+-   Sklearn
+-   XGBoost
+-   Tensorflow
 
 ## Used Resources
 

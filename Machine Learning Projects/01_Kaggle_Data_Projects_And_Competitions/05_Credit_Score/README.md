@@ -15,14 +15,14 @@ Given a person’s credit-related information, build a machine learning model th
 
 ## Technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
-Sklearn <br>
-XGBoost <br>
-Tensorflow <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
+-   Sklearn
+-   XGBoost
+-   Tensorflow
 
 ## Used Resources
 

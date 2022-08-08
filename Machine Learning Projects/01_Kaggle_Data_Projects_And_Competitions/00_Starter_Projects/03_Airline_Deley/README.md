@@ -7,18 +7,18 @@ Initial Date: 22.07.2022
 
 ## Description
 
-This data is about Airline flight data. The task is to 
+This data is about Airline flight data. The task is to
 
 ## Technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
-Sklearn <br>
-XGBoost <br>
-Tensorflow <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
+-   Sklearn
+-   XGBoost
+-   Tensorflow
 
 ## Used Resources
 
